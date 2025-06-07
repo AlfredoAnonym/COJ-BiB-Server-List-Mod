@@ -1,3 +1,6 @@
+# Author: Mx9819, server list updated IP's added by Alfredo, Kris
+# Updated at: 29.05.2025
+# Source: https://github.com/AlfredoAnonym/COJ-BiB-Server-List-Mod/blob/main/ServerListMod/serverlist.toml
 # bind game to 27632 port to get serverlist
 # required to get serverlist from gameranger + SNAT server (without server files modification)
 # option is restricting one game instance per computer, not required when server has removed serverlist broadcasting
