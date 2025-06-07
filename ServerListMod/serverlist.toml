@@ -1,0 +1,27 @@
+# bind game to 27632 port to get serverlist
+# required to get serverlist from gameranger + SNAT server (without server files modification)
+# option is restricting one game instance per computer, not required when server has removed serverlist broadcasting
+# remove option or set to -1 to disable it
+# use it only when server in `known_servers` requires it to display serverlist
+# uncomment next line to enable:
+
+# known server list in format <ip>:<port>
+# example:
+# known_servers = [
+#     "12.34.56.78:27632",
+#     "10.10.10.10:27631"
+# ]
+
+known_servers = [
+ "51.77.58.210:27632",
+ "51.77.58.210:27633",
+ "148.113.46.90:27632",
+ "51.77.58.210:27634",
+ "51.77.58.210:27635",
+ "147.185.221.16:65516",
+ "51.77.44.173:27632",
+ "51.77.44.173:27633",
+ "51.77.44.173:27634",
+ "51.77.44.173:27635",
+ "51.77.44.173:27636",
+]
