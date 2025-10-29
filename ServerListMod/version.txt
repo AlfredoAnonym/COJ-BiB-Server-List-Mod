@@ -1,3 +1,2 @@
-Version 2025.10.14
-
-- New update, adding server in Istanbul, Turkey to balance pings between Iranese and European players.
+Version 2025.29.10
+- Added another IranCOJ server. Presumably that one with custom maps. Even if it's temporary I'm still adding it, in case the main one (IranCoj[WIN]) goes down or something.
