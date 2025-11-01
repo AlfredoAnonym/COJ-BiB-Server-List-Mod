@@ -1,2 +1,16 @@
-Version 2025.29.10
-- Added another IranCOJ server. Presumably that one with custom maps. Even if it's temporary I'm still adding it, in case the main one (IranCoj[WIN]) goes down or something.
+v1.3.0:
+- fixed ping calucation in LAN server list. Before, servers always have green ping
+- added numeric ping display option
+- added colored ping display option
+- added kills and death statistics display option
+- added servers from:
+  https://github.com/AlfredoAnonym/COJ-BiB-Server-List-Mod
+  commit hash:
+  39bcf065ddd471b4e664773f8041a97dd9ed4af2
+v1.2.0:
+- added FOV changing option
+v1.1.0:
+- fixed crashing when loading custom map after techland map
+v1.0.0:
+- added configurable LAN serverlist
+- fixed joining issue when more network adapters are turned on
