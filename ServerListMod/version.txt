@@ -1,3 +1,5 @@
+v 1.3.2:
+- Fixed Wild West Legends k/d reset on the scoreboard. Before deaths were only resetting, and kills weren't.
 v1.3.0:
 - fixed ping calucation in LAN server list. Before, servers always have green ping
 - added numeric ping display option
