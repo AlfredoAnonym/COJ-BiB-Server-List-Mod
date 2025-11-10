@@ -12,9 +12,11 @@
 # fov = 60.0
 
 
-numeric_pings = true
-colored_pings = true
-kd_stats = true
+ping_display = 'colored_numbers' # 'default' or 'numbers' or 'colored_numbers'
+
+# to disable KD mod, comment out or remove at least one option `stats_column_1` or stats_column_2`
+stats_column_1 = 'accuracy' # 'kills' or 'deaths' or 'accuracy' or 'kd_balance' or 'kd_ratio'
+stats_column_2 = 'kd_ratio' # 'kills' or 'deaths' or 'accuracy' or 'kd_balance' or 'kd_ratio'
 
 
 # known server list in format <ip>:<port>
