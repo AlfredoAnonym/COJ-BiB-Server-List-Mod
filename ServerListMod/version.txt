@@ -1,3 +1,11 @@
+v 1.4.0
+refactored ping display option in .toml file
+added more values to display in columns:
+accuracy
+kills/death balance
+kills/death side by side
+columns data source can be configured via .toml
+restored old kills counter (counter reset fix in dedicated server patch)
 v 1.3.2:
 - Fixed Wild West Legends k/d reset on the scoreboard. Before deaths were only resetting, and kills weren't.
 v1.3.0:
